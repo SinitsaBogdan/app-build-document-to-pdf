@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/app-build-document-to-pdf/static/css/main.a6393113.css",
-    "main.js": "/app-build-document-to-pdf/static/js/main.aab59b7f.js",
+    "main.js": "/app-build-document-to-pdf/static/js/main.822ef6ef.js",
     "index.html": "/app-build-document-to-pdf/index.html",
     "static/media/phone.svg": "/app-build-document-to-pdf/static/media/phone.eec9c518e05c1d67186bc92a3d771873.svg",
     "static/media/print.svg": "/app-build-document-to-pdf/static/media/print.7c1a5608cb943ae005ca8c3f2890e9e8.svg",
     "static/media/mail.svg": "/app-build-document-to-pdf/static/media/mail.d8309d70585733120c3c55d13696923f.svg",
     "main.a6393113.css.map": "/app-build-document-to-pdf/static/css/main.a6393113.css.map",
-    "main.aab59b7f.js.map": "/app-build-document-to-pdf/static/js/main.aab59b7f.js.map"
+    "main.822ef6ef.js.map": "/app-build-document-to-pdf/static/js/main.822ef6ef.js.map"
   },
   "entrypoints": [
     "static/css/main.a6393113.css",
-    "static/js/main.aab59b7f.js"
+    "static/js/main.822ef6ef.js"
   ]
 }
