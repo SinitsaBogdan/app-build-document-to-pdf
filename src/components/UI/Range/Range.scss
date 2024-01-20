@@ -1,0 +1,20 @@
+.Range {
+    width: 90%;
+    height: 6px;
+    margin-right: 1rem;
+    overflow: hidden;
+    cursor: pointer;
+    
+    &::-webkit-slider-runnable-track {
+      background: #ddd;
+    }
+    
+    &::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 20px;
+      height: 40px;
+      background: dodgerblue;
+      box-shadow: -100vw 0 0 100vw dodgerblue;
+      border: 1px solid #999;
+    }
+}

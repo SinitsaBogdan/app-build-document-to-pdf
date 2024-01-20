@@ -1,0 +1,23 @@
+.ui-title-1,
+.ui-title-2,
+.ui-title-3,
+.ui-title-4,
+.ui-title-5,
+.ui-text {
+
+    max-width: 100%;
+    word-wrap: break-word;
+
+    padding: 2px 10px;
+
+    transition: 0.4s all ease;
+    border-radius: 20px;
+
+    &:focus {
+        background-color: #ebebeb;
+    }
+}
+
+.isUppercase {
+    text-transform: uppercase;
+}
